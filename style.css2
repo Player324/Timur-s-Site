@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+}
+
+ul {
+    background-color: cornsilk;
+}
+
+header a {
+    color: black;
+    font-size: 30px;
+    border: 3px dashed darkslategrey;
+    text-decoration: none;
+}
+
+header {
+    background-color: goldenrod;
+}
+
+main {
+    background-color: peru;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
+
+footer p{
+    font-style: italic;
+}
