@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 30px;
+    border: 3px solid wheat;
+}
+
+body {
+    background-color: rgb(201, 98, 210);
+}
+
+header {
+    background-color: rgb(179, 93, 179);
+}
+
+main {
+    background-color: rgb(164, 131, 181);
+}
+
+footer {
+    background-color: darkslateblue;
+}
+
+footer p {
+    color: bisque;
+}
+
+main a {
+    color: lightsteelblue;
+}
+
+main li {
+    color: white;
+}
+
+footer img {
+    box-shadow: 10px 10px 10px blueviolet;
+}
